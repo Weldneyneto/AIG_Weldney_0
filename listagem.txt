@@ -4,3 +4,4 @@ telemovel
 tablet
 teclado
 rato
+ecrã
